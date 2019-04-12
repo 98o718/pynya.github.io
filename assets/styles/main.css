@@ -53,7 +53,6 @@ body {
 .fantastisch-section__image {
   height: 200px;
   transition: all 0.3s ease;
-  position: relative;
 }
 
 .fantastisch-section__image:hover {
@@ -64,7 +63,7 @@ body {
   margin-top: -60px;
   font-size: 6em;
   color: white;
-  z-index: 9999;
+  z-index: 999;
 }
 
 .fantastisch-section__h3 {
