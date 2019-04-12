@@ -38,7 +38,6 @@ body {
   font-size: 3.5em;
   font-style: italic;
   text-decoration: underline;
-  /* font-weight: bold; */
   margin: 15px 30px;
 }
 
@@ -218,11 +217,5 @@ body {
   .join-us-section__image {
     width: 100%;
     height: auto;
-  }
-}
-
-@media only screen and (max-width: 321px) {
-  .header__link {
-    /* font-siz e: 1em; */
   }
 }
